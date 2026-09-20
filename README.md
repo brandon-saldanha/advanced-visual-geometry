@@ -41,7 +41,7 @@ Epipolar lines in the first image, feature correspondence in the second and 3D r
       <img src="./images/avgab22.png" alt="Lab 2 Visualization" width="300">
     </td>
     <td align="center">
-      <img src="./images/avglab23.gif" alt="Lab 2 Visualization" width="300">
+      <img src="https://github.com/user-attachments/assets/6f3eab91-dcc7-490d-bbbc-f23847f8ceb9" alt="Lab 2 Visualization" width="300">
     </td>
   </tr>
 </table>
@@ -49,7 +49,8 @@ Epipolar lines in the first image, feature correspondence in the second and 3D r
   
 ## Lab 3
 Computing the camera poses using Visual Odometry (VO)
+
   <p align="center">
-  <img src="./images/avglab3.gif"
- alt="[Lab 3 Visualization" width="600">
+  <img src="https://github.com/user-attachments/assets/e6a5e9be-83ae-46fa-9ada-25984c7ea70f"
+ alt="Lab 3 Visualization" width="600">
   </p>
