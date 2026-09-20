@@ -20,10 +20,10 @@ Before on the left and after on the right
 <table>
   <tr>
     <td align="center">
-      <img src="./lab1avg.png" alt="Lab 1 Visualization" width="400">
+      <img src="./images/lab1avg.png" alt="Lab 1 Visualization" width="400">
     </td>
     <td align="center">
-      <img src="./lab1avg1.png" alt="Lab 2 Visualization" width="400">
+      <img src="./images/lab1avg1.png" alt="Lab 1 Visualization" width="400">
     </td>
   </tr>
 </table>
@@ -34,14 +34,14 @@ Epipolar lines in the first image, feature correspondence in the second and 3D r
 <table>
   <tr>
     <td align="center">
-      <img src="./avglab21.png" alt="Lab 2
+      <img src="./images/avglab21.png" alt="Lab 2
  Visualization" width="300">
     </td>
     <td align="center">
-      <img src="./avgab22.png" alt="Lab 2 Visualization" width="300">
+      <img src="./images/avgab22.png" alt="Lab 2 Visualization" width="300">
     </td>
     <td align="center">
-      <img src="./avglab23.gif" alt="Lab 3 Visualization" width="300">
+      <img src="./images/avglab23.gif" alt="Lab 2 Visualization" width="300">
     </td>
   </tr>
 </table>
@@ -50,6 +50,6 @@ Epipolar lines in the first image, feature correspondence in the second and 3D r
 ## Lab 3
 Computing the camera poses using Visual Odometry (VO)
   <p align="center">
-  <img src="./avglab3.gif"
+  <img src="./images/avglab3.gif"
  alt="[Lab 3 Visualization" width="600">
   </p>
